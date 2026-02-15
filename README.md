@@ -6,6 +6,12 @@
 # About Me:
 Hello everyone Ayush here.<br>I tinker with code, break things on purpose, and occasionally build something worth pushing to main. Currently diving into Computer Science & Engineering, experimenting with full-stack projects, and always chasing cleaner, smarter solutions.<br><br>If it involves tech, creativity, or automating the boring stuff — I’m in.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushbin07&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ayushbin07?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ayushbin07?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+</p>
+
 
 # Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushbin.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushbin07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayushbin07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushbin.07@gmail.com) 

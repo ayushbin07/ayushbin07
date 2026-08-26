@@ -29,3 +29,12 @@ Hello everyone Ayush here.<br>I tinker with code, break things on purpose, and o
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayushbin07&icon=0&color=12)](https://visitcount.itsvg.in)
+
+
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/ayushbin07?v=1787749487297"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>

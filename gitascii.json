@@ -5,12 +5,12 @@
       "widgetId": "header",
       "name": "Header Widget",
       "position": {
-        "x": 0,
-        "y": 0
+        "x": 28,
+        "y": 30
       },
       "size": {
-        "width": 800,
-        "height": 90
+        "width": 744,
+        "height": 98
       },
       "config": {},
       "locked": false,
@@ -19,32 +19,15 @@
       "instanceId": "widget_1787749923265_0"
     },
     {
-      "widgetId": "avatar",
-      "name": "Avatar Widget",
-      "position": {
-        "x": 0,
-        "y": 106
-      },
-      "size": {
-        "width": 150,
-        "height": 150
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 2,
-      "instanceId": "widget_1787749923265_1"
-    },
-    {
       "widgetId": "bio",
       "name": "Bio Widget",
       "position": {
-        "x": 166,
-        "y": 106
+        "x": 28,
+        "y": 152
       },
       "size": {
-        "width": 634,
-        "height": 150
+        "width": 744,
+        "height": 108
       },
       "config": {},
       "locked": false,
@@ -56,11 +39,11 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 0,
-        "y": 272
+        "x": 28,
+        "y": 284
       },
       "size": {
-        "width": 800,
+        "width": 744,
         "height": 140
       },
       "config": {
@@ -91,11 +74,11 @@
       "widgetId": "github-readme-stats",
       "name": "Github-readme-stats Widget",
       "position": {
-        "x": 0,
-        "y": 428
+        "x": 28,
+        "y": 448
       },
       "size": {
-        "width": 390,
+        "width": 372,
         "height": 210
       },
       "config": {},
@@ -105,21 +88,28 @@
       "instanceId": "widget_1787749923265_4"
     },
     {
-      "widgetId": "streak-stats",
-      "name": "Streak-stats Widget",
+      "instanceId": "widget_1787750470523",
+      "widgetId": "premium-ascii-coding-velocity",
+      "name": "Premium-ascii-coding-velocity Widget",
       "position": {
-        "x": 410,
-        "y": 428
+        "x": 464,
+        "y": 456
       },
       "size": {
-        "width": 390,
+        "width": 210,
         "height": 210
       },
-      "config": {},
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
       "locked": false,
       "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1787749923265_5"
+      "zIndex": 5
     }
   ],
   "globalStyles": {
